@@ -27,8 +27,7 @@ const kalpit = {
   role      : "Full Stack Web Developer",
   languages : ["C", "C++", "Python", "Java", "Swift", "JavaScript"],
   focus     : ["Web Development", "UI/UX Design", "Systems Programming"],
-  learning  : ["Cloud Architecture", "DevOps", "Mobile Apps"],
-  funFact   : "I debug with console.log and I'm not ashamed 🙃",
+  learning  : ["Cloud Architecture", "DevOps", "Blockchain"],
 };
 ```
 
@@ -91,9 +90,7 @@ const kalpit = {
 
 ## `> git log --activity`
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalpit118&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kalpit118&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Kalpit's%20Contribution%20Graph" />
 
 ---
 
@@ -104,7 +101,7 @@ const kalpit = {
   <a href="https://github.com/kalpit118">
     <img src="https://img.shields.io/badge/GitHub-kalpit118-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:kalpit118@example.com">
+  <a href="mailto:kalpitjare11@gmail.com">
     <img src="https://img.shields.io/badge/Email-Reach%20Out-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
